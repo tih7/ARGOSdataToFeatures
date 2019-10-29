@@ -1,0 +1,1 @@
+%localappdata%\ESRI\conda\envs\arcgispro-py3-clone\Scripts\spyder.exe -w %cd% -p %cd%
